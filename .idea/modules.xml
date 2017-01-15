@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MissingChar/MissingChar.iml" filepath="$PROJECT_DIR$/MissingChar/MissingChar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NotAString/NotAString.iml" filepath="$PROJECT_DIR$/NotAString/NotAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.FrontBack/FrontBack.iml" filepath="$PROJECT_DIR$/04.FrontBack/FrontBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/01.HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.MissingChar/MissingChar.iml" filepath="$PROJECT_DIR$/02.MissingChar/MissingChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.NotAString/NotAString.iml" filepath="$PROJECT_DIR$/03.NotAString/NotAString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Revisions.iml" filepath="$PROJECT_DIR$/Revisions.iml" />
     </modules>
   </component>
