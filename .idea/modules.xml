@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.HelloWorld/01.HelloWorld.iml" filepath="$PROJECT_DIR$/01.HelloWorld/01.HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.MissingChar/02.MissingChar.iml" filepath="$PROJECT_DIR$/02.MissingChar/02.MissingChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.NotAString/03.NotAString.iml" filepath="$PROJECT_DIR$/03.NotAString/03.NotAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.FrontBack/04.FrontBack.iml" filepath="$PROJECT_DIR$/04.FrontBack/04.FrontBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A.Calculator/A.Calculator.iml" filepath="$PROJECT_DIR$/A.Calculator/A.Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/B.GuessANumber/B.GuessANumber.iml" filepath="$PROJECT_DIR$/B.GuessANumber/B.GuessANumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/A.Calculator/Calculator.iml" filepath="$PROJECT_DIR$/A.Calculator/Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04.FrontBack/FrontBack.iml" filepath="$PROJECT_DIR$/04.FrontBack/FrontBack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01.HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/01.HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02.MissingChar/MissingChar.iml" filepath="$PROJECT_DIR$/02.MissingChar/MissingChar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03.NotAString/NotAString.iml" filepath="$PROJECT_DIR$/03.NotAString/NotAString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Revisions.iml" filepath="$PROJECT_DIR$/Revisions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra.iml" filepath="$PROJECT_DIR$/Extra.iml" />
     </modules>
   </component>
 </project>
