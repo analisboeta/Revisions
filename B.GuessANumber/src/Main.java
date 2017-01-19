@@ -15,13 +15,11 @@ public class Main {
     public static void main(String[] args) {
 
 
-        public static final int MIN_CHOICE_LIMIT = 0;
-        public static final int MAX_CHOICE_LIMIT = 10;
 
         Player p1 = new Player("Ana");
         Player p2 = new Player("João");
 
-        Game game = new Game(3); // number of rounds as an argument
+        Game game = new Game(4); // number of rounds as arguments
 
         game.start(p1, p2); // both players passed as arguments
 
