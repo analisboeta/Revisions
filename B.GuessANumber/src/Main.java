@@ -7,7 +7,7 @@
  * then compare to see who wins those guesses and who wins gets displayed.
  *
  * @author Ana Lourenço
- * @version 0.2
+ * @version 1.0
  * @since 2016-10-02
  */
 public class Main {
