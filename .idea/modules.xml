@@ -8,8 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/04.FrontBack/04.FrontBack.iml" filepath="$PROJECT_DIR$/04.FrontBack/04.FrontBack.iml" />
       <module fileurl="file://$PROJECT_DIR$/A.Calculator/A.Calculator.iml" filepath="$PROJECT_DIR$/A.Calculator/A.Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/B.GuessANumber/B.GuessANumber.iml" filepath="$PROJECT_DIR$/B.GuessANumber/B.GuessANumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C.MoneyBank/C.MoneyBank.iml" filepath="$PROJECT_DIR$/C.MoneyBank/C.MoneyBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D.ArabianNights/D.ArabianNights.iml" filepath="$PROJECT_DIR$/D.ArabianNights/D.ArabianNights.iml" />
+      <module fileurl="file://$USER_HOME$/workspaceProjects/D.ArabianNights/D.ArabianNights.iml" filepath="$USER_HOME$/workspaceProjects/D.ArabianNights/D.ArabianNights.iml" />
       <module fileurl="file://$PROJECT_DIR$/C.MoneyBank/MoneyBank.iml" filepath="$PROJECT_DIR$/C.MoneyBank/MoneyBank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Extra.iml" filepath="$PROJECT_DIR$/Extra.iml" />
     </modules>
   </component>
 </project>
